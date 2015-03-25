@@ -5,11 +5,11 @@ android {
     resourcePrefix "fab_"
 
     defaultConfig {
-        applicationId 'com.faizmalkani.floatingactionbutton'
         minSdkVersion 7
-        targetSdkVersion 19
-        versionName "1.0"
+        targetSdkVersion 21
         versionCode 1
+        versionName version
+
     }
 
     sourceSets {
